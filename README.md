@@ -16,5 +16,5 @@
 ~~~
 点对点, 不能做推送, 不能做广播
 
-signal 解决grpc缺点
+signalr 解决grpc缺点
 ~~~
